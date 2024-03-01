@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "BlankProximityWinUI3Desktop (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "BlankProximityWinUI3Desktop (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
